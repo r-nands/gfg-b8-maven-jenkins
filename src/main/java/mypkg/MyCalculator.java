@@ -28,6 +28,6 @@ public class MyCalculator {
 		
 		MyCalculator ob = new MyCalculator();
 		System.out.println("Sum is: "+ob.sum(20, 10));
-		System.out.println("Sum is: "+ob.sub(20, 10));	
+		System.out.println("Sum is: "+ob.sub(20, 10));
 	}
 }
