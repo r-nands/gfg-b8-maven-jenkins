@@ -19,6 +19,10 @@ public class MyCalculator {
 	{
 		return a/b;
 	}
+	public void display()
+	{
+		System.out.println("Welcome GFG");
+	}
 
 	public static void main(String[] args) {
 		
