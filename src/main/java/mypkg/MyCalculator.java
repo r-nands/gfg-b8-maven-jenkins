@@ -23,6 +23,10 @@ public class MyCalculator {
 	{
 		System.out.println("Welcome GFG");
 	}
+	public void display2()
+	{
+		System.out.println("Welcome GFG");
+	}
 
 	public static void main(String[] args) {
 		
