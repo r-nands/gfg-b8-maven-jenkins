@@ -19,7 +19,7 @@ public class MyCalculator {
 	{
 		return a/b;
 	}
-	public int per(int a, int b)
+	public int percentage(int a, int b)
 	{
 		return a%b;
 	}
