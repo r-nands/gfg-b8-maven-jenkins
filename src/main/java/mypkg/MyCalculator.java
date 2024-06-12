@@ -19,6 +19,10 @@ public class MyCalculator {
 	{
 		return a/b;
 	}
+	public int per(int a, int b)
+	{
+		return a%b;
+	}
 	public void display()
 	{
 		System.out.println("Welcome GFG");
@@ -31,6 +35,7 @@ public class MyCalculator {
 	{
 		System.out.println("Welcome GFG3");
 	}
+	
 
 	public static void main(String[] args) {
 		
