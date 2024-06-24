@@ -32,7 +32,7 @@ jobs:
     - name: Build and Publich Dcoker Image
       uses: mr-smithers-excellent/docker-build-push@v6
       with:
-        image: hkshitesh/gfgb8new
+        image: nand12/gfgb8new
         registry: docker.io
         username: ${{ secrets.DOCKER_USERNAME }}
         password: ${{ secrets.DOCKER_PASSWORD }}
